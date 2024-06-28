@@ -1,0 +1,31 @@
+{
+  "encoding" : "utf-8",
+  "alias" : "english",
+  "TITLE" : "Calculator",
+  "SETTINGS_TITLE" : "Settings",
+  "LANGUAGE_OPTION_TEXT" : "Language",
+  "LANGUAGE_INFO" : "Defines the calculator display language",
+  "THEME_OPTION_TEXT" : "Theme",
+  "THEME_INFO" : "Defines the theme of the calculator\n(dark mode or light mode)",
+  "THEME_MENU_VALUE" : {
+    "dark": "dark",
+    "light": "light",
+    "system": "system"
+  },
+  "HIDE_DELAY_OPTION_TEXT" : "Hide delay",
+  "HIDE_DELAY_INFO": "The time it takes for the\nwindow to disappear",
+
+  "ABOUT" : "about",
+  "VERSION" : "Version",
+  "CREDITS": "Credits",
+  "RELEASE_NOTE" : "Release note",
+  "GO_TO_GITHUB" : "go to github",
+  "PYTHON_VERSION" : "python version",
+  "APP_VERSION" : "app version",
+
+  "DEVELOPER" : "Developer",
+  "ABOUT_ICON" : "About icon",
+  "SETTINGS_ICON" : "settings icon",
+  "BACK_ICON" : "back icon"
+
+}

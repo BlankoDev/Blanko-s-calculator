@@ -14,7 +14,8 @@ if platform != "win32" and not SKIP_PLATFORM_CHECK:
 
 modules = (
     "customtkinter",
-    "pillow"
+    "pillow",
+    "TkinterDnD2"
 )
 modules_count = len(modules)
 i = 0

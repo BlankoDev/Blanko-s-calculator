@@ -1,0 +1,30 @@
+{
+  "encoding" : "utf-8",
+  "alias" : "fancais",
+  "TITLE" : "Calculatice",
+  "SETTINGS_TITLE" : "Paramètres",
+  "LANGUAGE_OPTION_TEXT" : "Langue",
+  "LANGUAGE_INFO" : "Definit la langue d'affichage de\nla calculatice",
+  "THEME_OPTION_TEXT" : "Thème",
+  "THEME_INFO" : "Definit le thème de la calculatice\n (mode sombre ou mode claire)",
+  "THEME_MENU_VALUE" : {
+    "sombre": "dark",
+    "claire": "light", 
+    "systeme": "system"
+  },
+  "HIDE_DELAY_OPTION_TEXT" : "Delai de disparition",
+  "HIDE_DELAY_INFO": "Le temp que met la fenêtre avant\nde disparaître",
+
+  "ABOUT" : "A propos",
+  "VERSION" : "Version",
+  "CREDITS": "Crédits",
+  "RELEASE_NOTE" : "Note de version",
+  "GO_TO_GITHUB" : "Aller sur github",
+  "PYTHON_VERSION" : "version de python",
+  "APP_VERSION" : "version de l'application",
+
+  "DEVELOPER" : "développeur",
+  "ABOUT_ICON" : "a propos",
+  "SETTINGS_ICON" : "paramètres",
+  "BACK_ICON" : "retour"
+}
